@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ✨ Welcome to my profile! Here is everyting I'd like you to know about me:
-- 🔭 I’m currently working on several interesting personal projects invovling the use of a Raspberry Pi 4b! Here is a sample of what I have been experimenting with the last couple years:  [YouTube](https://youtu.be/KZh7CmAEwR4?si=i_HPKMywwCWhVghT) (Youtube Channel)
+- 🔭 I’m currently working on several interesting personal projects invovling the use of a Raspberry Pi 4b! Here is a sample of what I have been experimenting with the last couple years:  [YouTube Channel](https://youtu.be/KZh7CmAEwR4?si=i_HPKMywwCWhVghT) 
 - 🌱 I’m currently studying computer science at York University, located in Toronto, Canada. 
-- 📫 How to reach me: Send me a message throught LinkedIn, I try my best to respond to all of my messages asap! Here is a link to my profile: [LinkedIn](https://www.linkedin.com/in/alex-chisa-b4536328a/) (LinkedIn)
+- 📫 How to reach me: Send me a message throught LinkedIn, I try my best to respond to all of my messages asap! Here is a link to my profile: [LinkedIn](https://www.linkedin.com/in/alex-chisa-b4536328a/)
 - 💬 Ask me about any of my projects if you find them interesting! I love to hear feedback on my previous projects!
 
 <!--
