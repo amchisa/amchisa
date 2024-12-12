@@ -12,10 +12,18 @@ ____________/\\\\\\\\\_____/\\\\____________/\\\\________/\\\\\\\\\________
         ________\///________\///__\///______________\///________\/////////_________
 </pre></div>
 
+<!-- Programming Languages -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,c,python,bash,html,css,eclipse,vscode,anaconda,linux,raspberrypi"/>
+   <img src="https://skillicons.dev/icons?i=js,java,c,python,bash,html,css"/>
   </a>
+</p>
+
+<!-- Tools & Technical Skills -->
+<p align="center">
+ <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=eclipse,vscode,anaconda,linux,raspberrypi"/>
+ </a>
 </p>
 
 ## About Me:
