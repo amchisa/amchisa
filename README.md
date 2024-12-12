@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi, I'm Alex Chisa
 
+
+
+## About Me:
+
+## Skills:
 <!--
 **amchisa/amchisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
