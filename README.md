@@ -9,8 +9,7 @@ ____________/\\\\\\\\\_____/\\\\____________/\\\\________/\\\\\\\\\_______
      ________\/\\\/////////\\\_\/\\\____\///_____\/\\\_\//\\\__________________   
       ________\/\\\_______\/\\\_\/\\\_____________\/\\\__\///\\\________________  
        ________\/\\\_______\/\\\_\/\\\_____________\/\\\____\////\\\\\\\\\_______ 
-        ________\///________\///__\///______________\///________\/////////________
-       ___           ___           ___     
+        ________\///________\///__\///______________\///________\/////////________    
 </pre></div>
 
 <br>
@@ -35,6 +34,4 @@ ____________/\\\\\\\\\_____/\\\\____________/\\\\________/\\\\\\\\\_______
 - In my free time, I enjoy reading, taking walks, and working out.
 - I'm currently looking for co-op positions for summer 2025.
 - I love learning new things. In the past few years I've learned how to solve a rubik's cube, play chess, and touch type.
-- I speak two languages fluently, and am partially proficient in a third.
-
-
+- I speak two languages fluently, and I am relatively proficient in a third.
