@@ -33,5 +33,3 @@ ____________/\\\\\\\\\_____/\\\\____________/\\\\________/\\\\\\\\\_______
 - My passions include robotics, game development, astronomy and programming.
 - In my free time, I enjoy reading, taking walks, and working out.
 - I'm currently looking for co-op positions for summer 2025.
-- I love learning new things. In the past few years I've learned how to solve a rubik's cube, play chess, and touch type.
-- I speak two languages fluently, and I am relatively proficient in a third.
