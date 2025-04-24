@@ -24,5 +24,5 @@ ____________/\\\\\\\\\_____/\\\\____________/\\\\________/\\\\\\\\\_______
  <a href="https://leetcode.com/u/amchisa/" target="_blank"><img src="https://img.shields.io/badge/-amchisa-F89F1B?style=flat&logo=Leetcode&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/takisyummy-5865F2?style=flat&logo=Discord&logoColor=white"/>
  <a href="mailto:chisa.alexander@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-chisa.alexander@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
- <a href="https://www.linkedin.com/in/alex-c-b4536328a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn%20|%20Alex%20Chisa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/alex-chisa-b4536328a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn%20|%20Alex%20Chisa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </div>
