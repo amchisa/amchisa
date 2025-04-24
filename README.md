@@ -14,7 +14,7 @@ ____________/\\\\\\\\\_____/\\\\____________/\\\\________/\\\\\\\\\_______
 
 <div align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,java,c,python,bash,html,css,eclipse,vscode,linux,raspberrypi"/>
+   <img src="https://skillicons.dev/icons?i=java,c,python,mysql,js,bash,html,css,linux,raspberrypi"/>
   </a>
 </div>
 
