@@ -1,3 +1,5 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <div align="center"><b><pre>
 ____________/\\\\\\\\\_____/\\\\____________/\\\\________/\\\\\\\\\_______        
  __________/\\\\\\\\\\\\\__\/\\\\\\________/\\\\\\_____/\\\////////________       
@@ -14,6 +16,8 @@ ____________/\\\\\\\\\_____/\\\\____________/\\\\________/\\\\\\\\\_______
 
 <div align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=java,python,c,mysql,mongodb,bash,js,ts,html,css,react,tailwind"/>
+   <img src="https://skillicons.dev/icons?i=java,python,c,mysql,mongodb,bash,js,ts,html,css,react,tailwind,git"/>
   </a>
 </div>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
