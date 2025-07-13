@@ -17,5 +17,3 @@ ____________/\\\\\\\\\_____/\\\\____________/\\\\________/\\\\\\\\\_______
    <img src="https://skillicons.dev/icons?i=java,python,c,mysql,mongodb,bash,js,ts,html,css,react,tailwind,git"/>
   </a>
 </div>
-
----
