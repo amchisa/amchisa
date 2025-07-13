@@ -1,5 +1,3 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 <div align="center"><b><pre>
 ____________/\\\\\\\\\_____/\\\\____________/\\\\________/\\\\\\\\\_______        
  __________/\\\\\\\\\\\\\__\/\\\\\\________/\\\\\\_____/\\\////////________       
@@ -21,5 +19,3 @@ ____________/\\\\\\\\\_____/\\\\____________/\\\\________/\\\\\\\\\_______
 </div>
 
 ---
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
